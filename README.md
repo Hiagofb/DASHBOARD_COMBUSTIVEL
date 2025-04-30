@@ -20,19 +20,8 @@ Foi desenvolvido um script em Python responsável por:
 - **Concatenar todos os dados em um único DataFrame**, usado diretamente no Power BI;
 - **Permitir atualização automática**: ao adicionar novos arquivos à pasta, o Power BI atualiza o dashboard com os novos dados.
 
-> Acesse o notebook explicativo da ETL:
-<a href="https://github.com/Hiagofb/DASHBOARD_COMBUSTIVEL/blob/master/ETL_DADOS_EXPLICANDO.ipynb" target="_blank" style="
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: #2ea44f;
-  color: white;
-  text-decoration: none;
-  border-radius: 6px;
-  font-weight: bold;
-  font-family: sans-serif;
-">
-📓 ETL_DADOS_EXPLICATIVO.ipynb
-</a>
+> Acesse o notebook explicativo da ETL
+[📓 ETL_DADOS_EXPLICATIVO.ipynb](https://github.com/Hiagofb/DASHBOARD_COMBUSTIVEL/blob/master/ETL_DADOS_EXPLICANDO.ipynb)
 
 ## Sobre os Dados
 Os dados utilizados neste projeto referem-se aos **preços de combustíveis no Brasil entre 2004 e 2022**, coletados pela ANP (Agência Nacional do Petróleo) e organizados no Kaggle pelo usuário **samfaraday**.
