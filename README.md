@@ -1,10 +1,10 @@
 ## Dashboard de Monitoramento do Preço dos Combustíveis no Brasil
 
-![Demonstração do Dashboard](SEU_GIF_AQUI.gif)
+![Image](https://github.com/user-attachments/assets/030ed419-3fc0-431f-9b52-4bff3ebae71b)
 
 Este projeto apresenta um **dashboard interativo desenvolvido no Power BI** para acompanhar a evolução dos preços dos combustíveis no Brasil entre 2004 e 2022. A solução combina **Python e Power BI** para automatizar a coleta, tratamento e visualização dos dados.
 > 🌐 **Acesse o dashboard online no Power BI Service:**  
-[🔗 Ver Dashboard no Power BI Online](https://app.powerbi.com/groups/me/reports/SEU_LINK_AQUI)
+[🔗 Ver Dashboard no Power BI Online](https://app.powerbi.com/view?r=eyJrIjoiYmFhNjQ0OTItMjdlYi00ODcyLTllMjQtMjFlNjdhODMxZDI1IiwidCI6IjRjYWNmYzIzLTM0MjItNGY0MC1iMjk0LWEyOGIzNGFkMzI0ZSJ9)
 
 ## Objetivo Profissional
 Este projeto foi desenvolvido como parte do meu portfólio com o intuito de:
@@ -72,6 +72,7 @@ Por isso, os arquivos foram adicionados ao `.gitignore`, e orientações foram f
   <tr>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="50" height="40"/><br>Power BI</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="40"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/><br>Pandas</td>
 </table>
 
 ---
