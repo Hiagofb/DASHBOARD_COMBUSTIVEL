@@ -21,6 +21,7 @@ Foi desenvolvido um script em Python responsável por:
 - **Permitir atualização automática**: ao adicionar novos arquivos à pasta, o Power BI atualiza o dashboard com os novos dados.
 
 > Acesse o notebook explicativo da ETL
+
 >[📓 ETL_DADOS_EXPLICATIVO.ipynb](https://github.com/Hiagofb/DASHBOARD_COMBUSTIVEL/blob/master/ETL_DADOS_EXPLICANDO.ipynb)
 
 ## Sobre os Dados
