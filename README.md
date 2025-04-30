@@ -1,6 +1,6 @@
 ## Dashboard de Monitoramento do Preço dos Combustíveis no Brasil
 
-![Image](https://github.com/user-attachments/assets/030ed419-3fc0-431f-9b52-4bff3ebae71b)
+![Image](https://github.com/user-attachments/assets/7ec7c076-8e51-4721-b1db-bc0ab276d5e8)
 
 Este projeto apresenta um **dashboard interativo desenvolvido no Power BI** para acompanhar a evolução dos preços dos combustíveis no Brasil entre 2004 e 2022. A solução combina **Python e Power BI** para automatizar a coleta, tratamento e visualização dos dados.
 > 🌐 **Acesse o dashboard online no Power BI Service:**  
